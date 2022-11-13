@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tdwl+LugL1yCQ9PFOUdsQ/bDAnnjIR3LLVoeJMNGi9jFN0UHf/aV8GrLfvYQHBlph784lMZlyQQGH08oHQBCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moose_m7y2ik3\\Google Drive\\C# Course\\BankLibrary\\BankLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moose_m7y2ik3\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
